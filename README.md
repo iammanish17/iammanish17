@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/iammanish17?label=Follow&style=social)](https://github.com/iammanish17/?tab=follow)
 [![Mail Badge](https://img.shields.io/badge/-manishkundu@live.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manishkundu@live.com)](mailto:manishkundu@live.com)
 
-I am Manish Kundu 😃. I am currently a Sophomore at Dept. of Information Technology, [IIEST Shibpur](http://iiests.ac.in/).
+**I am Manish Kundu 😃. I am currently a Sophomore at Dept. of Information Technology, [IIEST Shibpur](http://iiests.ac.in/). I am interested in web development and I like to contribute to open-source.**
 
 ## ⚡ I'm a
 - Competitive Programmer using **Python 3**
