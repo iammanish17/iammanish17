@@ -5,3 +5,9 @@
 [![Mail Badge](https://img.shields.io/badge/-manishkundu@live.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manishkundu@live.com)](mailto:manishkundu@live.com)
 
 I am Manish Kundu 😃. I am currently a Sophomore at Dept. of Information Technology, [IIEST Shibpur](http://iiests.ac.in/).
+
+## ⚡ I'm a
+- Competitive Programmer using **Python 3**
+- Backend developer using **Django**
+- Front-end developer using **HTML, Javascript,CSS,Bootstrap**
+- Android developer using **Unity C#**
