@@ -8,7 +8,7 @@
 
 ## ⚡ I'm a
 - Competitive Programmer using **Python 3**
-- Backend developer using **Django**
+- Backend developer using **Django**, **ReactJS**
 - Front-end developer using **HTML, Javascript,CSS,Bootstrap**
 - Android developer using **Unity C#**
 
