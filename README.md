@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/iammanish17?style=social)](https://github.com/iammanish17?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-manishkundu@live.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manishkundu@live.com)](mailto:manishkundu@live.com)
 
-**I am Manish Kundu 😃. I am currently a student at Dept. of Information Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) . I am interested in web development and I like to contribute to open-source. Find me on LinkedIn [here](https://www.linkedin.com/in/manishkundu17/)**
+**I am Manish Kundu 😃. I am currently a student at Dept. of Information Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) . I am interested in web development and I like to contribute to open-source. Find me on LinkedIn [here](https://www.linkedin.com/in/manishkundu17/).**
 
 ## ⚡ I'm a
 - Competitive Programmer using **Python 3**
