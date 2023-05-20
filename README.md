@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishkundu17/)
 [![GitHub followers](https://img.shields.io/github/followers/iammanish17?style=social)](https://github.com/iammanish17?tab=followers)
-[![Mail Badge](https://img.shields.io/badge/-manishkundu@live.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:manishkundu@live.com)](mailto:manishkundu@live.com)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/manish.17.svg)](https://codeforces.com/profile/manish.17)
 
 ## Skills
