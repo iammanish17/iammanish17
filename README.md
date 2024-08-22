@@ -5,7 +5,7 @@
 
 - Software Engineer at Media.net
 - Previously worked at Google
-- Former competitive programmer
+- Former Competitive Programmer
 
 # some of my coding profiles
 
