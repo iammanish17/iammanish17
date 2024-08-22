@@ -9,7 +9,7 @@
 
 # some of my coding profiles
 
-- [Code Golf (Stack Exchange)](https://codegolf.stackexchange.com/users/77516/manish-kundu)
+- [Code Golf (Stack Exchange)](https://codegolf.stackexchange.com/users/77516/manish-kundu?tab=topactivity)
 - [Codeforces](https://codeforces.com/profile/manish.17)
 - [AtCoder](https://atcoder.jp/users/manish17)
 
